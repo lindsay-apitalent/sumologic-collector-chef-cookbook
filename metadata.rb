@@ -26,6 +26,7 @@ depends 'java'
   oracle
   windows
   suse
+  linux
 ).each do |os|
   supports os
 end
